@@ -1,1 +1,1 @@
-# exai-site
+# ExAI Public Site
